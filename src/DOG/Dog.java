@@ -3,6 +3,9 @@ package DOG;
 public class Dog {
     public int weight;
 
+    public Dog (int w){
+        weight = w;
+    }
     public void makeNoise(){
         if (weight < 10){
             System.out.println("yipyip ~~ ");
