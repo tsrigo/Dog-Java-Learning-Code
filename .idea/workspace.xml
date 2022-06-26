@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a5a38d4-c2b9-45bb-ac70-39af51ac94c6" name="Changes" comment="Replace old method(makeNoise) with non-static (instance) method to verify different dogs.&#10;Show one way to init d(instance of Dog)">
-      <change beforePath="$PROJECT_DIR$/src/DOG/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DOG/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DOG/DogLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DOG/DogLauncher.java" afterDir="false" />
+    <list default="true" id="6a5a38d4-c2b9-45bb-ac70-39af51ac94c6" name="Changes" comment="Remove two useless .class">
+      <change afterPath="$PROJECT_DIR$/src/DOG/ArrayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,20 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ArrayDemo">
+    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DOG.ArrayDemo" />
+      <module name="MyTry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DOG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DogLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DOG.DogLauncher" />
       <module name="MyTry" />
@@ -55,6 +68,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayDemo" />
         <item itemvalue="Application.DogLauncher" />
       </list>
     </recent_temporary>
@@ -103,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656234931765</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Use Constructor to simplify the code.">
+      <created>1656235153387</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656235153387</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Remove two useless .class">
+      <created>1656235345170</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656235345170</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +151,8 @@
     <MESSAGE value="Add Dog, DogLauncher" />
     <MESSAGE value="Add Dog, DogLauncher&#10;I should make a package to run the java code" />
     <MESSAGE value="Replace old method(makeNoise) with non-static (instance) method to verify different dogs.&#10;Show one way to init d(instance of Dog)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Replace old method(makeNoise) with non-static (instance) method to verify different dogs.&#10;Show one way to init d(instance of Dog)" />
+    <MESSAGE value="Use Constructor to simplify the code." />
+    <MESSAGE value="Remove two useless .class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove two useless .class" />
   </component>
 </project>
