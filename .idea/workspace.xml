@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a5a38d4-c2b9-45bb-ac70-39af51ac94c6" name="Changes" comment="Add Dog, DogLauncher&#10;I should make a package to run the java code">
-      <change beforePath="$PROJECT_DIR$/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DogLauncher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DOG/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DOG/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DOG/DogLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DOG/DogLauncher.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
