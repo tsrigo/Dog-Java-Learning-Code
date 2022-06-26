@@ -28,4 +28,14 @@ public class Dog {
         if (this.weight > d2.weight) return d2;
         else return this;
     }
+
+    // Wrong usage:'DOG.Dog.this' cannot be referenced from a static context
+    /*
+    public static Dog Exe_maxDog(Dog d1, Dog d2) {
+        if (weightInPounds > d2.weightInPounds) {
+            return this;
+        }
+        return d2;
+    }
+    */
 }
