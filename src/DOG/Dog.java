@@ -2,7 +2,7 @@ package DOG;
 
 public class Dog {
     public int weight;
-
+    public static String binoman = "Canis familiaris"; // Static Variables
     public Dog (int w){
         weight = w;
     }
