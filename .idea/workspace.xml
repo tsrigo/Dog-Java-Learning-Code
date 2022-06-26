@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a5a38d4-c2b9-45bb-ac70-39af51ac94c6" name="Changes" comment="Remove two useless .class">
-      <change afterPath="$PROJECT_DIR$/src/DOG/ArrayDemo.java" afterDir="false" />
+    <list default="true" id="6a5a38d4-c2b9-45bb-ac70-39af51ac94c6" name="Changes" comment="Add ArrayDemo.To show arrays of instantiated objects in Java.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DOG/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DOG/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DOG/DogLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DOG/DogLauncher.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayDemo">
+  <component name="RunManager" selected="Application.DogLauncher">
     <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DOG.ArrayDemo" />
       <module name="MyTry" />
@@ -68,8 +69,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayDemo" />
         <item itemvalue="Application.DogLauncher" />
+        <item itemvalue="Application.ArrayDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656235345170</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add ArrayDemo.To show arrays of instantiated objects in Java.">
+      <created>1656235867436</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656235867436</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +161,7 @@
     <MESSAGE value="Replace old method(makeNoise) with non-static (instance) method to verify different dogs.&#10;Show one way to init d(instance of Dog)" />
     <MESSAGE value="Use Constructor to simplify the code." />
     <MESSAGE value="Remove two useless .class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove two useless .class" />
+    <MESSAGE value="Add ArrayDemo.To show arrays of instantiated objects in Java." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ArrayDemo.To show arrays of instantiated objects in Java." />
   </component>
 </project>

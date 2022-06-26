@@ -18,4 +18,14 @@ public class Dog {
     public static void Old_makeNoise(){
         System.out.println("Bark !!!");
     }
+
+    public static Dog maxDog(Dog d1, Dog d2){ // static method
+        if (d1.weight > d2.weight) return d1;
+        else return d2;
+    }
+
+    public Dog minDog(Dog d2){  // non-static method
+        if (this.weight > d2.weight) return d2;
+        else return this;
+    }
 }
